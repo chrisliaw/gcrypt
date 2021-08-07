@@ -41,7 +41,7 @@ Or install it yourself as:
 
 ## Contributing
 
-Anyone welcome to clone and continue
+Anyone welcome to fork!
 
 ## License
 
